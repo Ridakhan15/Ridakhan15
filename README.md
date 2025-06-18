@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ridakhan15
-- 👀 I’m interested in Datasccience
-- 🌱 I’m currently learning FYCS
+- 👀 I’m interested in Datascience
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me from my gmail
 
