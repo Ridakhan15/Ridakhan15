@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **khrida15124@gmail.com**
 
-- 📄 Know about my experiences [file:///D:/rida/ds/Data%20scientist.pdf](file:///D:/rida/ds/Data%20scientist.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
