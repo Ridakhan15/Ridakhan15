@@ -1,8 +1,8 @@
 # 💫About Me :
 👋 Hi, I’m Rida Khan <br>
-💻 Coding ideas into reality.
-📈 Passionate about Data Science, ML, and Visualization.
-📊 Building, learning, and sharing data-driven ideas.
+💻 Coding ideas into reality. <br>
+📈 Passionate about Data Science, ML, and Visualization. <br>
+📊 Building, learning, and sharing data-driven ideas. <br>
 🚀 Always eager to collaborate on open-source or data-driven projects.
 
 ## 🌐Socials
