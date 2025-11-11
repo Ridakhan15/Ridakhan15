@@ -5,9 +5,6 @@
 📊 Building, learning, and sharing data-driven ideas. <br>
 🚀 Always eager to collaborate on open-source or data-driven projects. <br>
 
-📄 **View My Resume**  
-[![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue?style=plastic&logo=readthedocs)](https://drive.google.com/file/d/your-file-id/view?usp=sharing)
-
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khrida15)
