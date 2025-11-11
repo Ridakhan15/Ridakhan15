@@ -1,5 +1,5 @@
 # 💫About Me :
-👋 Hi, I’m Rida Khan
+👋 Hi, I’m Rida Khan <br>
 💻 Coding ideas into reality.
 📈 Passionate about Data Science, ML, and Visualization.
 📊 Building, learning, and sharing data-driven ideas.
